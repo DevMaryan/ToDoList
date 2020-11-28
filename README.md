@@ -5,7 +5,7 @@ To Do List
 
 <h3>Simple front interface</h3>
 <img src="https://i.ibb.co/KWPCF4R/ss1.png" alt="ss1" border="0">
-<h3>Entry field cant be empty, the title is changing into notification.</h3>
+<h3>Entry field cant be empty, the title is changing into notification. Each item has date when is created</h3>
 <img src="https://i.ibb.co/mt9RV8F/ss2.png" alt="ss2" border="0">
 <h3>When user enter valid enrty, the item is adding into the list, and the title is changing back to To-Do List</h3>
 
